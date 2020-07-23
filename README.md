@@ -1,0 +1,2 @@
+# Student-Result-Processing-System
+An individual report card of each student has to be displayed and printed at a keystroke according to any selected format. An important aid for teachers and students to judge their performance. Merit list printing by totals for a class by individual subject marks for a class. Student performance in a particular subject or all the subjects must be expressed. Performance of teachers of various classes can be easily compared.
